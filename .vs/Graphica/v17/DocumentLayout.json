@@ -1,0 +1,481 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\arsenochka\\source\\repos\\Graphica\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3451642B-6B0D-4C76-A2B3-14627179551A}|Graphica\\Graphica.vcxproj|C:\\Users\\arsenochka\\source\\repos\\Graphica\\Graphica\\ShapeFactoryManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3451642B-6B0D-4C76-A2B3-14627179551A}|Graphica\\Graphica.vcxproj|solutionrelative:Graphica\\ShapeFactoryManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3451642B-6B0D-4C76-A2B3-14627179551A}|Graphica\\Graphica.vcxproj|C:\\Users\\arsenochka\\source\\repos\\Graphica\\Graphica\\input.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{3451642B-6B0D-4C76-A2B3-14627179551A}|Graphica\\Graphica.vcxproj|solutionrelative:Graphica\\input.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3451642B-6B0D-4C76-A2B3-14627179551A}|Graphica\\Graphica.vcxproj|C:\\Users\\arsenochka\\source\\repos\\Graphica\\Graphica\\FileHandler.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3451642B-6B0D-4C76-A2B3-14627179551A}|Graphica\\Graphica.vcxproj|solutionrelative:Graphica\\FileHandler.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3451642B-6B0D-4C76-A2B3-14627179551A}|Graphica\\Graphica.vcxproj|C:\\Users\\arsenochka\\source\\repos\\Graphica\\Graphica\\Application.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3451642B-6B0D-4C76-A2B3-14627179551A}|Graphica\\Graphica.vcxproj|solutionrelative:Graphica\\Application.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3451642B-6B0D-4C76-A2B3-14627179551A}|Graphica\\Graphica.vcxproj|C:\\Users\\arsenochka\\source\\repos\\Graphica\\Graphica\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3451642B-6B0D-4C76-A2B3-14627179551A}|Graphica\\Graphica.vcxproj|solutionrelative:Graphica\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3451642B-6B0D-4C76-A2B3-14627179551A}|Graphica\\Graphica.vcxproj|C:\\Users\\arsenochka\\source\\repos\\Graphica\\Graphica\\ShapeMathDecorator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3451642B-6B0D-4C76-A2B3-14627179551A}|Graphica\\Graphica.vcxproj|solutionrelative:Graphica\\ShapeMathDecorator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3451642B-6B0D-4C76-A2B3-14627179551A}|Graphica\\Graphica.vcxproj|C:\\Users\\arsenochka\\source\\repos\\Graphica\\Graphica\\ShapeManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3451642B-6B0D-4C76-A2B3-14627179551A}|Graphica\\Graphica.vcxproj|solutionrelative:Graphica\\ShapeManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3451642B-6B0D-4C76-A2B3-14627179551A}|Graphica\\Graphica.vcxproj|C:\\Users\\arsenochka\\source\\repos\\Graphica\\Graphica\\IShape.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3451642B-6B0D-4C76-A2B3-14627179551A}|Graphica\\Graphica.vcxproj|solutionrelative:Graphica\\IShape.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3451642B-6B0D-4C76-A2B3-14627179551A}|Graphica\\Graphica.vcxproj|C:\\Users\\arsenochka\\source\\repos\\Graphica\\Graphica\\CircleMathDecorator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3451642B-6B0D-4C76-A2B3-14627179551A}|Graphica\\Graphica.vcxproj|solutionrelative:Graphica\\CircleMathDecorator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3451642B-6B0D-4C76-A2B3-14627179551A}|Graphica\\Graphica.vcxproj|C:\\Users\\arsenochka\\source\\repos\\Graphica\\Graphica\\CircleMathDecorator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3451642B-6B0D-4C76-A2B3-14627179551A}|Graphica\\Graphica.vcxproj|solutionrelative:Graphica\\CircleMathDecorator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3451642B-6B0D-4C76-A2B3-14627179551A}|Graphica\\Graphica.vcxproj|C:\\Users\\arsenochka\\source\\repos\\Graphica\\Graphica\\TriangleMathDecorator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3451642B-6B0D-4C76-A2B3-14627179551A}|Graphica\\Graphica.vcxproj|solutionrelative:Graphica\\TriangleMathDecorator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3451642B-6B0D-4C76-A2B3-14627179551A}|Graphica\\Graphica.vcxproj|C:\\Users\\arsenochka\\source\\repos\\Graphica\\Graphica\\TriangleMathDecorator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3451642B-6B0D-4C76-A2B3-14627179551A}|Graphica\\Graphica.vcxproj|solutionrelative:Graphica\\TriangleMathDecorator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3451642B-6B0D-4C76-A2B3-14627179551A}|Graphica\\Graphica.vcxproj|C:\\Users\\arsenochka\\source\\repos\\Graphica\\Graphica\\RectangleMathDecorator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3451642B-6B0D-4C76-A2B3-14627179551A}|Graphica\\Graphica.vcxproj|solutionrelative:Graphica\\RectangleMathDecorator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3451642B-6B0D-4C76-A2B3-14627179551A}|Graphica\\Graphica.vcxproj|C:\\Users\\arsenochka\\source\\repos\\Graphica\\Graphica\\RectangleMathDecorator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3451642B-6B0D-4C76-A2B3-14627179551A}|Graphica\\Graphica.vcxproj|solutionrelative:Graphica\\RectangleMathDecorator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3451642B-6B0D-4C76-A2B3-14627179551A}|Graphica\\Graphica.vcxproj|C:\\Users\\arsenochka\\source\\repos\\Graphica\\Graphica\\DrawDecorator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3451642B-6B0D-4C76-A2B3-14627179551A}|Graphica\\Graphica.vcxproj|solutionrelative:Graphica\\DrawDecorator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3451642B-6B0D-4C76-A2B3-14627179551A}|Graphica\\Graphica.vcxproj|C:\\Users\\arsenochka\\source\\repos\\Graphica\\Graphica\\FileHandler.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3451642B-6B0D-4C76-A2B3-14627179551A}|Graphica\\Graphica.vcxproj|solutionrelative:Graphica\\FileHandler.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3451642B-6B0D-4C76-A2B3-14627179551A}|Graphica\\Graphica.vcxproj|C:\\Users\\arsenochka\\source\\repos\\Graphica\\Graphica\\CircleCreator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3451642B-6B0D-4C76-A2B3-14627179551A}|Graphica\\Graphica.vcxproj|solutionrelative:Graphica\\CircleCreator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3451642B-6B0D-4C76-A2B3-14627179551A}|Graphica\\Graphica.vcxproj|C:\\Users\\arsenochka\\source\\repos\\Graphica\\Graphica\\CCircle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3451642B-6B0D-4C76-A2B3-14627179551A}|Graphica\\Graphica.vcxproj|solutionrelative:Graphica\\CCircle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3451642B-6B0D-4C76-A2B3-14627179551A}|Graphica\\Graphica.vcxproj|C:\\Users\\arsenochka\\source\\repos\\Graphica\\Graphica\\output.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{3451642B-6B0D-4C76-A2B3-14627179551A}|Graphica\\Graphica.vcxproj|solutionrelative:Graphica\\output.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3451642B-6B0D-4C76-A2B3-14627179551A}|Graphica\\Graphica.vcxproj|C:\\Users\\arsenochka\\source\\repos\\Graphica\\Graphica\\Constants.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3451642B-6B0D-4C76-A2B3-14627179551A}|Graphica\\Graphica.vcxproj|solutionrelative:Graphica\\Constants.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3451642B-6B0D-4C76-A2B3-14627179551A}|Graphica\\Graphica.vcxproj|C:\\Users\\arsenochka\\source\\repos\\Graphica\\Graphica\\Application.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3451642B-6B0D-4C76-A2B3-14627179551A}|Graphica\\Graphica.vcxproj|solutionrelative:Graphica\\Application.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3451642B-6B0D-4C76-A2B3-14627179551A}|Graphica\\Graphica.vcxproj|C:\\Users\\arsenochka\\source\\repos\\Graphica\\Graphica\\ShapeManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3451642B-6B0D-4C76-A2B3-14627179551A}|Graphica\\Graphica.vcxproj|solutionrelative:Graphica\\ShapeManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\arsenochka\\source\\repos\\Graphica\\Graphica\\TriangleDecorator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Graphica\\TriangleDecorator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\arsenochka\\source\\repos\\Graphica\\Graphica\\RectangleDecorator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Graphica\\RectangleDecorator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\arsenochka\\source\\repos\\Graphica\\Graphica\\CircleDecorator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Graphica\\CircleDecorator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\arsenochka\\source\\repos\\Graphica\\Graphica\\TriangleDecorator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Graphica\\TriangleDecorator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\arsenochka\\source\\repos\\Graphica\\Graphica\\RectangleDecorator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Graphica\\RectangleDecorator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\arsenochka\\source\\repos\\Graphica\\Graphica\\CircleDecorator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Graphica\\CircleDecorator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IShape.h",
+              "DocumentMoniker": "C:\\Users\\arsenochka\\source\\repos\\Graphica\\Graphica\\IShape.h",
+              "RelativeDocumentMoniker": "Graphica\\IShape.h",
+              "ToolTip": "C:\\Users\\arsenochka\\source\\repos\\Graphica\\Graphica\\IShape.h",
+              "RelativeToolTip": "Graphica\\IShape.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-12T08:47:26.913Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ShapeFactoryManager.cpp",
+              "DocumentMoniker": "C:\\Users\\arsenochka\\source\\repos\\Graphica\\Graphica\\ShapeFactoryManager.cpp",
+              "RelativeDocumentMoniker": "Graphica\\ShapeFactoryManager.cpp",
+              "ToolTip": "C:\\Users\\arsenochka\\source\\repos\\Graphica\\Graphica\\ShapeFactoryManager.cpp",
+              "RelativeToolTip": "Graphica\\ShapeFactoryManager.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-16T00:12:34.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TriangleMathDecorator.h",
+              "DocumentMoniker": "C:\\Users\\arsenochka\\source\\repos\\Graphica\\Graphica\\TriangleMathDecorator.h",
+              "RelativeDocumentMoniker": "Graphica\\TriangleMathDecorator.h",
+              "ToolTip": "C:\\Users\\arsenochka\\source\\repos\\Graphica\\Graphica\\TriangleMathDecorator.h",
+              "RelativeToolTip": "Graphica\\TriangleMathDecorator.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-18T22:28:41.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Application.cpp",
+              "DocumentMoniker": "C:\\Users\\arsenochka\\source\\repos\\Graphica\\Graphica\\Application.cpp",
+              "RelativeDocumentMoniker": "Graphica\\Application.cpp",
+              "ToolTip": "C:\\Users\\arsenochka\\source\\repos\\Graphica\\Graphica\\Application.cpp",
+              "RelativeToolTip": "Graphica\\Application.cpp",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAtwAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-18T22:49:58.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\arsenochka\\source\\repos\\Graphica\\Graphica\\main.cpp",
+              "RelativeDocumentMoniker": "Graphica\\main.cpp",
+              "ToolTip": "C:\\Users\\arsenochka\\source\\repos\\Graphica\\Graphica\\main.cpp",
+              "RelativeToolTip": "Graphica\\main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-26T04:00:22.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FileHandler.cpp",
+              "DocumentMoniker": "C:\\Users\\arsenochka\\source\\repos\\Graphica\\Graphica\\FileHandler.cpp",
+              "RelativeDocumentMoniker": "Graphica\\FileHandler.cpp",
+              "ToolTip": "C:\\Users\\arsenochka\\source\\repos\\Graphica\\Graphica\\FileHandler.cpp",
+              "RelativeToolTip": "Graphica\\FileHandler.cpp",
+              "ViewState": "AQIAAA4AAAAAAAAAAADwvxUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-18T22:50:25.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "input.txt",
+              "DocumentMoniker": "C:\\Users\\arsenochka\\source\\repos\\Graphica\\Graphica\\input.txt",
+              "RelativeDocumentMoniker": "Graphica\\input.txt",
+              "ToolTip": "C:\\Users\\arsenochka\\source\\repos\\Graphica\\Graphica\\input.txt",
+              "RelativeToolTip": "Graphica\\input.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-11-18T21:31:13.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CircleMathDecorator.h",
+              "DocumentMoniker": "C:\\Users\\arsenochka\\source\\repos\\Graphica\\Graphica\\CircleMathDecorator.h",
+              "RelativeDocumentMoniker": "Graphica\\CircleMathDecorator.h",
+              "ToolTip": "C:\\Users\\arsenochka\\source\\repos\\Graphica\\Graphica\\CircleMathDecorator.h",
+              "RelativeToolTip": "Graphica\\CircleMathDecorator.h",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAkwBEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-01T09:59:56.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ShapeManager.h",
+              "DocumentMoniker": "C:\\Users\\arsenochka\\source\\repos\\Graphica\\Graphica\\ShapeManager.h",
+              "RelativeDocumentMoniker": "Graphica\\ShapeManager.h",
+              "ToolTip": "C:\\Users\\arsenochka\\source\\repos\\Graphica\\Graphica\\ShapeManager.h",
+              "RelativeToolTip": "Graphica\\ShapeManager.h",
+              "ViewState": "AQIAABMAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-18T22:38:27.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ShapeMathDecorator.h",
+              "DocumentMoniker": "C:\\Users\\arsenochka\\source\\repos\\Graphica\\Graphica\\ShapeMathDecorator.h",
+              "RelativeDocumentMoniker": "Graphica\\ShapeMathDecorator.h",
+              "ToolTip": "C:\\Users\\arsenochka\\source\\repos\\Graphica\\Graphica\\ShapeMathDecorator.h",
+              "RelativeToolTip": "Graphica\\ShapeMathDecorator.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-12T08:57:34.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TriangleMathDecorator.cpp",
+              "DocumentMoniker": "C:\\Users\\arsenochka\\source\\repos\\Graphica\\Graphica\\TriangleMathDecorator.cpp",
+              "RelativeDocumentMoniker": "Graphica\\TriangleMathDecorator.cpp",
+              "ToolTip": "C:\\Users\\arsenochka\\source\\repos\\Graphica\\Graphica\\TriangleMathDecorator.cpp",
+              "RelativeToolTip": "Graphica\\TriangleMathDecorator.cpp",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAwBgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-18T22:28:38.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CircleMathDecorator.cpp",
+              "DocumentMoniker": "C:\\Users\\arsenochka\\source\\repos\\Graphica\\Graphica\\CircleMathDecorator.cpp",
+              "RelativeDocumentMoniker": "Graphica\\CircleMathDecorator.cpp",
+              "ToolTip": "C:\\Users\\arsenochka\\source\\repos\\Graphica\\Graphica\\CircleMathDecorator.cpp",
+              "RelativeToolTip": "Graphica\\CircleMathDecorator.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-12T07:32:04.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RectangleMathDecorator.cpp",
+              "DocumentMoniker": "C:\\Users\\arsenochka\\source\\repos\\Graphica\\Graphica\\RectangleMathDecorator.cpp",
+              "RelativeDocumentMoniker": "Graphica\\RectangleMathDecorator.cpp",
+              "ToolTip": "C:\\Users\\arsenochka\\source\\repos\\Graphica\\Graphica\\RectangleMathDecorator.cpp",
+              "RelativeToolTip": "Graphica\\RectangleMathDecorator.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-18T22:26:38.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RectangleMathDecorator.h",
+              "DocumentMoniker": "C:\\Users\\arsenochka\\source\\repos\\Graphica\\Graphica\\RectangleMathDecorator.h",
+              "RelativeDocumentMoniker": "Graphica\\RectangleMathDecorator.h",
+              "ToolTip": "C:\\Users\\arsenochka\\source\\repos\\Graphica\\Graphica\\RectangleMathDecorator.h",
+              "RelativeToolTip": "Graphica\\RectangleMathDecorator.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-18T22:26:35.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DrawDecorator.h",
+              "DocumentMoniker": "C:\\Users\\arsenochka\\source\\repos\\Graphica\\Graphica\\DrawDecorator.h",
+              "RelativeDocumentMoniker": "Graphica\\DrawDecorator.h",
+              "ToolTip": "C:\\Users\\arsenochka\\source\\repos\\Graphica\\Graphica\\DrawDecorator.h",
+              "RelativeToolTip": "Graphica\\DrawDecorator.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-13T11:17:05.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FileHandler.h",
+              "DocumentMoniker": "C:\\Users\\arsenochka\\source\\repos\\Graphica\\Graphica\\FileHandler.h",
+              "RelativeDocumentMoniker": "Graphica\\FileHandler.h",
+              "ToolTip": "C:\\Users\\arsenochka\\source\\repos\\Graphica\\Graphica\\FileHandler.h",
+              "RelativeToolTip": "Graphica\\FileHandler.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-18T22:48:31.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CircleCreator.cpp",
+              "DocumentMoniker": "C:\\Users\\arsenochka\\source\\repos\\Graphica\\Graphica\\CircleCreator.cpp",
+              "RelativeDocumentMoniker": "Graphica\\CircleCreator.cpp",
+              "ToolTip": "C:\\Users\\arsenochka\\source\\repos\\Graphica\\Graphica\\CircleCreator.cpp",
+              "RelativeToolTip": "Graphica\\CircleCreator.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-10T12:47:27.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "TriangleDecorator.h",
+              "DocumentMoniker": "C:\\Users\\arsenochka\\source\\repos\\Graphica\\Graphica\\TriangleDecorator.h",
+              "RelativeDocumentMoniker": "Graphica\\TriangleDecorator.h",
+              "ToolTip": "C:\\Users\\arsenochka\\source\\repos\\Graphica\\Graphica\\TriangleDecorator.h",
+              "RelativeToolTip": "Graphica\\TriangleDecorator.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-18T22:15:28.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CCircle.cpp",
+              "DocumentMoniker": "C:\\Users\\arsenochka\\source\\repos\\Graphica\\Graphica\\CCircle.cpp",
+              "RelativeDocumentMoniker": "Graphica\\CCircle.cpp",
+              "ToolTip": "C:\\Users\\arsenochka\\source\\repos\\Graphica\\Graphica\\CCircle.cpp",
+              "RelativeToolTip": "Graphica\\CCircle.cpp",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-10T12:47:24.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "output.txt",
+              "DocumentMoniker": "C:\\Users\\arsenochka\\source\\repos\\Graphica\\Graphica\\output.txt",
+              "RelativeDocumentMoniker": "Graphica\\output.txt",
+              "ToolTip": "C:\\Users\\arsenochka\\source\\repos\\Graphica\\Graphica\\output.txt",
+              "RelativeToolTip": "Graphica\\output.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-11-26T02:51:42.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "RectangleDecorator.h",
+              "DocumentMoniker": "C:\\Users\\arsenochka\\source\\repos\\Graphica\\Graphica\\RectangleDecorator.h",
+              "RelativeDocumentMoniker": "Graphica\\RectangleDecorator.h",
+              "ToolTip": "C:\\Users\\arsenochka\\source\\repos\\Graphica\\Graphica\\RectangleDecorator.h",
+              "RelativeToolTip": "Graphica\\RectangleDecorator.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-18T22:13:19.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Constants.h",
+              "DocumentMoniker": "C:\\Users\\arsenochka\\source\\repos\\Graphica\\Graphica\\Constants.h",
+              "RelativeDocumentMoniker": "Graphica\\Constants.h",
+              "ToolTip": "C:\\Users\\arsenochka\\source\\repos\\Graphica\\Graphica\\Constants.h",
+              "RelativeToolTip": "Graphica\\Constants.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-26T03:28:30.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Application.h",
+              "DocumentMoniker": "C:\\Users\\arsenochka\\source\\repos\\Graphica\\Graphica\\Application.h",
+              "RelativeDocumentMoniker": "Graphica\\Application.h",
+              "ToolTip": "C:\\Users\\arsenochka\\source\\repos\\Graphica\\Graphica\\Application.h",
+              "RelativeToolTip": "Graphica\\Application.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-03T09:55:19.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CircleDecorator.h",
+              "DocumentMoniker": "C:\\Users\\arsenochka\\source\\repos\\Graphica\\Graphica\\CircleDecorator.h",
+              "RelativeDocumentMoniker": "Graphica\\CircleDecorator.h",
+              "ToolTip": "C:\\Users\\arsenochka\\source\\repos\\Graphica\\Graphica\\CircleDecorator.h",
+              "RelativeToolTip": "Graphica\\CircleDecorator.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-18T19:09:15.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "TriangleDecorator.cpp",
+              "DocumentMoniker": "C:\\Users\\arsenochka\\source\\repos\\Graphica\\Graphica\\TriangleDecorator.cpp",
+              "RelativeDocumentMoniker": "Graphica\\TriangleDecorator.cpp",
+              "ToolTip": "C:\\Users\\arsenochka\\source\\repos\\Graphica\\Graphica\\TriangleDecorator.cpp",
+              "RelativeToolTip": "Graphica\\TriangleDecorator.cpp",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAB8AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-18T22:17:00.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ShapeManager.cpp",
+              "DocumentMoniker": "C:\\Users\\arsenochka\\source\\repos\\Graphica\\Graphica\\ShapeManager.cpp",
+              "RelativeDocumentMoniker": "Graphica\\ShapeManager.cpp",
+              "ToolTip": "C:\\Users\\arsenochka\\source\\repos\\Graphica\\Graphica\\ShapeManager.cpp",
+              "RelativeToolTip": "Graphica\\ShapeManager.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-18T22:38:20.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "RectangleDecorator.cpp",
+              "DocumentMoniker": "C:\\Users\\arsenochka\\source\\repos\\Graphica\\Graphica\\RectangleDecorator.cpp",
+              "RelativeDocumentMoniker": "Graphica\\RectangleDecorator.cpp",
+              "ToolTip": "C:\\Users\\arsenochka\\source\\repos\\Graphica\\Graphica\\RectangleDecorator.cpp",
+              "RelativeToolTip": "Graphica\\RectangleDecorator.cpp",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACAAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-18T22:13:14.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "CircleDecorator.cpp",
+              "DocumentMoniker": "C:\\Users\\arsenochka\\source\\repos\\Graphica\\Graphica\\CircleDecorator.cpp",
+              "RelativeDocumentMoniker": "Graphica\\CircleDecorator.cpp",
+              "ToolTip": "C:\\Users\\arsenochka\\source\\repos\\Graphica\\Graphica\\CircleDecorator.cpp",
+              "RelativeToolTip": "Graphica\\CircleDecorator.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-18T21:08:55.617Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
