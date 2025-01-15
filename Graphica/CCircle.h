@@ -6,10 +6,11 @@ class CCircle : public IShape
 {
 public:
     CCircle(sf::Vector2f position, float radius);
-    ~CCircle() override;
     std::string GetShapeName() const override;
     float GetRadius() const;
-    void Draw(sf::RenderWindow& window) override;
+    sf::Vector2f GetCenter() const;
+
+    void Accept(IVisitor& visitor) override;
 protected:
     sf::CircleShape* m_circle;
 };

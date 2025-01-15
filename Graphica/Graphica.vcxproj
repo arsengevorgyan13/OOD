@@ -135,35 +135,45 @@
     <ClCompile Include="Application.cpp" />
     <ClCompile Include="CircleCreator.cpp" />
     <ClCompile Include="CCircle.cpp" />
+    <ClCompile Include="CircleDrawDecorator.cpp" />
     <ClCompile Include="CircleMathDecorator.cpp" />
     <ClCompile Include="RectangleCreator.cpp" />
+    <ClCompile Include="RectangleDrawDecorator.cpp" />
     <ClCompile Include="RectangleMathDecorator.cpp" />
     <ClCompile Include="ShapeFactoryManager.cpp" />
+    <ClCompile Include="ShapeMathVisitor.cpp" />
+    <ClCompile Include="ShapeMathVisitor.h" />
     <ClCompile Include="TriangleCreator.cpp" />
     <ClCompile Include="CTriangle.cpp" />
-    <ClCompile Include="FileHandler.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="CRectangle.cpp" />
     <ClCompile Include="ShapeManager.cpp" />
+    <ClCompile Include="TriangleDrawDecorator.cpp" />
     <ClCompile Include="TriangleMathDecorator.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Application.h" />
     <ClInclude Include="CircleCreator.h" />
     <ClInclude Include="CCircle.h" />
+    <ClInclude Include="CircleDrawDecorator.h" />
     <ClInclude Include="CircleMathDecorator.h" />
     <ClInclude Include="Constants.h" />
-    <ClInclude Include="FileHandler.h" />
     <ClInclude Include="IShape.h" />
+    <ClInclude Include="IVisitor.h" />
     <ClInclude Include="RectangleCreator.h" />
+    <ClInclude Include="RectangleDrawDecorator.h" />
     <ClInclude Include="RectangleMathDecorator.h" />
     <ClInclude Include="ShapeCreator.h" />
+    <ClInclude Include="ShapeDecorator.h" />
+    <ClInclude Include="ShapeDrawDecorator.h" />
     <ClInclude Include="ShapeFactoryManager.h" />
+    <ClInclude Include="ShapeFileDecorator.h" />
     <ClInclude Include="ShapeManager.h" />
     <ClInclude Include="ShapeMathDecorator.h" />
     <ClInclude Include="TriangleCreator.h" />
     <ClInclude Include="CTriangle.h" />
     <ClInclude Include="CRectangle.h" />
+    <ClInclude Include="TriangleDrawDecorator.h" />
     <ClInclude Include="TriangleMathDecorator.h" />
   </ItemGroup>
   <ItemGroup>

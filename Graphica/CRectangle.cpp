@@ -8,16 +8,6 @@ CRectangle::CRectangle(sf::Vector2f position, float width, float height)
     m_rectangle->setFillColor(sf::Color(255, 0, 0));
 }
 
-CRectangle::~CRectangle()
-{
-    delete m_rectangle;
-}
-
-void CRectangle::Draw(sf::RenderWindow& window)
-{
-    window.draw(*m_rectangle);
-}
-
 std::string CRectangle::GetShapeName() const
 {
     return RECTANGLE_NAME;
@@ -31,4 +21,14 @@ float CRectangle::GetWidth() const
 float CRectangle::GetHeight() const
 {
     return m_rectangle->getSize().y;
+}
+
+sf::Vector2f CRectangle::GetPosition() const
+{
+    return m_rectangle->getPosition();
+}
+
+void CRectangle::Accept(IVisitor& visitor)
+{
+    visitor.Visit(*this);
 }

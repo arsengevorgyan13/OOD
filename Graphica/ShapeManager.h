@@ -10,7 +10,7 @@
 class ShapeManager
 {
 public:
-    void AddShape(std::shared_ptr<IShape> shape);
+    void ReadInputFile(const std::string& filename);
     void DrawShapes(sf::RenderWindow& window);
     void SaveResults(const std::string& outputFilename);
     const std::vector<std::shared_ptr<IShape>>& GetShapes() const;

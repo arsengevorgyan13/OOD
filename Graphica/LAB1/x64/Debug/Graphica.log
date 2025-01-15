@@ -1,0 +1,96 @@
+﻿  Application.cpp
+  CircleCreator.cpp
+C:\Users\arsenochka\source\repos\LAB2_OOD\OOD\Graphica\CircleCreator.cpp(23,34): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+C:\Users\arsenochka\source\repos\LAB2_OOD\OOD\Graphica\CircleCreator.cpp(23,34): warning C4244:         with
+C:\Users\arsenochka\source\repos\LAB2_OOD\OOD\Graphica\CircleCreator.cpp(23,34): warning C4244:         [
+C:\Users\arsenochka\source\repos\LAB2_OOD\OOD\Graphica\CircleCreator.cpp(23,34): warning C4244:             T=float
+C:\Users\arsenochka\source\repos\LAB2_OOD\OOD\Graphica\CircleCreator.cpp(23,34): warning C4244:         ]
+C:\Users\arsenochka\source\repos\LAB2_OOD\OOD\Graphica\CircleCreator.cpp(23,25): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+C:\Users\arsenochka\source\repos\LAB2_OOD\OOD\Graphica\CircleCreator.cpp(23,25): warning C4244:         with
+C:\Users\arsenochka\source\repos\LAB2_OOD\OOD\Graphica\CircleCreator.cpp(23,25): warning C4244:         [
+C:\Users\arsenochka\source\repos\LAB2_OOD\OOD\Graphica\CircleCreator.cpp(23,25): warning C4244:             T=float
+C:\Users\arsenochka\source\repos\LAB2_OOD\OOD\Graphica\CircleCreator.cpp(23,25): warning C4244:         ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\xutility(388,82): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  CCircle.cpp
+  CircleDrawDecorator.cpp
+  CircleMathDecorator.cpp
+C:\Users\arsenochka\source\repos\LAB2_OOD\OOD\Graphica\CircleMathDecorator.cpp(7,41): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+C:\Users\arsenochka\source\repos\LAB2_OOD\OOD\Graphica\CircleMathDecorator.cpp(12,21): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+  RectangleCreator.cpp
+C:\Users\arsenochka\source\repos\LAB2_OOD\OOD\Graphica\RectangleCreator.cpp(29,72): warning C4244: аргумент: преобразование "const _Ty" в "T", возможна потеря данных
+C:\Users\arsenochka\source\repos\LAB2_OOD\OOD\Graphica\RectangleCreator.cpp(29,72): warning C4244:         with
+C:\Users\arsenochka\source\repos\LAB2_OOD\OOD\Graphica\RectangleCreator.cpp(29,72): warning C4244:         [
+C:\Users\arsenochka\source\repos\LAB2_OOD\OOD\Graphica\RectangleCreator.cpp(29,72): warning C4244:             _Ty=int
+C:\Users\arsenochka\source\repos\LAB2_OOD\OOD\Graphica\RectangleCreator.cpp(29,72): warning C4244:         ]
+C:\Users\arsenochka\source\repos\LAB2_OOD\OOD\Graphica\RectangleCreator.cpp(29,72): warning C4244:         and
+C:\Users\arsenochka\source\repos\LAB2_OOD\OOD\Graphica\RectangleCreator.cpp(29,72): warning C4244:         [
+C:\Users\arsenochka\source\repos\LAB2_OOD\OOD\Graphica\RectangleCreator.cpp(29,72): warning C4244:             T=float
+C:\Users\arsenochka\source\repos\LAB2_OOD\OOD\Graphica\RectangleCreator.cpp(29,72): warning C4244:         ]
+C:\Users\arsenochka\source\repos\LAB2_OOD\OOD\Graphica\RectangleCreator.cpp(29,35): warning C4244: аргумент: преобразование "const _Ty" в "T", возможна потеря данных
+C:\Users\arsenochka\source\repos\LAB2_OOD\OOD\Graphica\RectangleCreator.cpp(29,35): warning C4244:         with
+C:\Users\arsenochka\source\repos\LAB2_OOD\OOD\Graphica\RectangleCreator.cpp(29,35): warning C4244:         [
+C:\Users\arsenochka\source\repos\LAB2_OOD\OOD\Graphica\RectangleCreator.cpp(29,35): warning C4244:             _Ty=int
+C:\Users\arsenochka\source\repos\LAB2_OOD\OOD\Graphica\RectangleCreator.cpp(29,35): warning C4244:         ]
+C:\Users\arsenochka\source\repos\LAB2_OOD\OOD\Graphica\RectangleCreator.cpp(29,35): warning C4244:         and
+C:\Users\arsenochka\source\repos\LAB2_OOD\OOD\Graphica\RectangleCreator.cpp(29,35): warning C4244:         [
+C:\Users\arsenochka\source\repos\LAB2_OOD\OOD\Graphica\RectangleCreator.cpp(29,35): warning C4244:             T=float
+C:\Users\arsenochka\source\repos\LAB2_OOD\OOD\Graphica\RectangleCreator.cpp(29,35): warning C4244:         ]
+C:\Users\arsenochka\source\repos\LAB2_OOD\OOD\Graphica\RectangleCreator.cpp(30,69): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+C:\Users\arsenochka\source\repos\LAB2_OOD\OOD\Graphica\RectangleCreator.cpp(30,69): warning C4244:         with
+C:\Users\arsenochka\source\repos\LAB2_OOD\OOD\Graphica\RectangleCreator.cpp(30,69): warning C4244:         [
+C:\Users\arsenochka\source\repos\LAB2_OOD\OOD\Graphica\RectangleCreator.cpp(30,69): warning C4244:             T=float
+C:\Users\arsenochka\source\repos\LAB2_OOD\OOD\Graphica\RectangleCreator.cpp(30,69): warning C4244:         ]
+C:\Users\arsenochka\source\repos\LAB2_OOD\OOD\Graphica\RectangleCreator.cpp(30,31): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+C:\Users\arsenochka\source\repos\LAB2_OOD\OOD\Graphica\RectangleCreator.cpp(30,31): warning C4244:         with
+C:\Users\arsenochka\source\repos\LAB2_OOD\OOD\Graphica\RectangleCreator.cpp(30,31): warning C4244:         [
+C:\Users\arsenochka\source\repos\LAB2_OOD\OOD\Graphica\RectangleCreator.cpp(30,31): warning C4244:             T=float
+C:\Users\arsenochka\source\repos\LAB2_OOD\OOD\Graphica\RectangleCreator.cpp(30,31): warning C4244:         ]
+  RectangleDrawDecorator.cpp
+  RectangleMathDecorator.cpp
+  ShapeFactoryManager.cpp
+  ShapeMathVisitor.cpp
+  ShapeMathVisitor.h
+  TriangleCreator.cpp
+C:\Users\arsenochka\source\repos\LAB2_OOD\OOD\Graphica\TriangleCreator.cpp(41,42): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+C:\Users\arsenochka\source\repos\LAB2_OOD\OOD\Graphica\TriangleCreator.cpp(41,42): warning C4244:         with
+C:\Users\arsenochka\source\repos\LAB2_OOD\OOD\Graphica\TriangleCreator.cpp(41,42): warning C4244:         [
+C:\Users\arsenochka\source\repos\LAB2_OOD\OOD\Graphica\TriangleCreator.cpp(41,42): warning C4244:             T=float
+C:\Users\arsenochka\source\repos\LAB2_OOD\OOD\Graphica\TriangleCreator.cpp(41,42): warning C4244:         ]
+C:\Users\arsenochka\source\repos\LAB2_OOD\OOD\Graphica\TriangleCreator.cpp(41,29): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+C:\Users\arsenochka\source\repos\LAB2_OOD\OOD\Graphica\TriangleCreator.cpp(41,29): warning C4244:         with
+C:\Users\arsenochka\source\repos\LAB2_OOD\OOD\Graphica\TriangleCreator.cpp(41,29): warning C4244:         [
+C:\Users\arsenochka\source\repos\LAB2_OOD\OOD\Graphica\TriangleCreator.cpp(41,29): warning C4244:             T=float
+C:\Users\arsenochka\source\repos\LAB2_OOD\OOD\Graphica\TriangleCreator.cpp(41,29): warning C4244:         ]
+C:\Users\arsenochka\source\repos\LAB2_OOD\OOD\Graphica\TriangleCreator.cpp(42,44): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+C:\Users\arsenochka\source\repos\LAB2_OOD\OOD\Graphica\TriangleCreator.cpp(42,44): warning C4244:         with
+C:\Users\arsenochka\source\repos\LAB2_OOD\OOD\Graphica\TriangleCreator.cpp(42,44): warning C4244:         [
+C:\Users\arsenochka\source\repos\LAB2_OOD\OOD\Graphica\TriangleCreator.cpp(42,44): warning C4244:             T=float
+C:\Users\arsenochka\source\repos\LAB2_OOD\OOD\Graphica\TriangleCreator.cpp(42,44): warning C4244:         ]
+C:\Users\arsenochka\source\repos\LAB2_OOD\OOD\Graphica\TriangleCreator.cpp(42,30): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+C:\Users\arsenochka\source\repos\LAB2_OOD\OOD\Graphica\TriangleCreator.cpp(42,30): warning C4244:         with
+C:\Users\arsenochka\source\repos\LAB2_OOD\OOD\Graphica\TriangleCreator.cpp(42,30): warning C4244:         [
+C:\Users\arsenochka\source\repos\LAB2_OOD\OOD\Graphica\TriangleCreator.cpp(42,30): warning C4244:             T=float
+C:\Users\arsenochka\source\repos\LAB2_OOD\OOD\Graphica\TriangleCreator.cpp(42,30): warning C4244:         ]
+C:\Users\arsenochka\source\repos\LAB2_OOD\OOD\Graphica\TriangleCreator.cpp(43,42): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+C:\Users\arsenochka\source\repos\LAB2_OOD\OOD\Graphica\TriangleCreator.cpp(43,42): warning C4244:         with
+C:\Users\arsenochka\source\repos\LAB2_OOD\OOD\Graphica\TriangleCreator.cpp(43,42): warning C4244:         [
+C:\Users\arsenochka\source\repos\LAB2_OOD\OOD\Graphica\TriangleCreator.cpp(43,42): warning C4244:             T=float
+C:\Users\arsenochka\source\repos\LAB2_OOD\OOD\Graphica\TriangleCreator.cpp(43,42): warning C4244:         ]
+C:\Users\arsenochka\source\repos\LAB2_OOD\OOD\Graphica\TriangleCreator.cpp(43,29): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+C:\Users\arsenochka\source\repos\LAB2_OOD\OOD\Graphica\TriangleCreator.cpp(43,29): warning C4244:         with
+C:\Users\arsenochka\source\repos\LAB2_OOD\OOD\Graphica\TriangleCreator.cpp(43,29): warning C4244:         [
+C:\Users\arsenochka\source\repos\LAB2_OOD\OOD\Graphica\TriangleCreator.cpp(43,29): warning C4244:             T=float
+C:\Users\arsenochka\source\repos\LAB2_OOD\OOD\Graphica\TriangleCreator.cpp(43,29): warning C4244:         ]
+  CTriangle.cpp
+  main.cpp
+  CRectangle.cpp
+  ShapeManager.cpp
+  TriangleDrawDecorator.cpp
+  TriangleMathDecorator.cpp
+C:\Users\arsenochka\source\repos\LAB2_OOD\OOD\Graphica\TriangleMathDecorator.cpp(9,17): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\arsenochka\source\repos\LAB2_OOD\OOD\Graphica\TriangleMathDecorator.cpp(10,17): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\arsenochka\source\repos\LAB2_OOD\OOD\Graphica\TriangleMathDecorator.cpp(11,17): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\arsenochka\source\repos\LAB2_OOD\OOD\Graphica\TriangleMathDecorator.cpp(22,16): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+  Создание кода...
+LAB1\x64\Debug\ShapeMathVisitor.obj : warning LNK4042: объект указан более одного раза; лишние не учитываются
+  Graphica.vcxproj -> C:\Users\arsenochka\source\repos\LAB2_OOD\OOD\Graphica\x64\Debug\LAB1.exe

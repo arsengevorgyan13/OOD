@@ -9,17 +9,7 @@ CTriangle::CTriangle(sf::Vector2f point1, sf::Vector2f point2, sf::Vector2f poin
     m_triangle->setPoint(1, point2);
     m_triangle->setPoint(2, point3);
 
-    m_triangle->setFillColor(sf::Color::Green);
-}
-
-CTriangle::~CTriangle()
-{
-    delete m_triangle;
-}
-
-void CTriangle::Draw(sf::RenderWindow& window)
-{
-    window.draw(*m_triangle);
+    m_triangle->setFillColor(sf::Color::Red);
 }
 
 std::string CTriangle::GetShapeName() const
@@ -33,4 +23,10 @@ sf::Vector2f CTriangle::GetPoint(size_t index) const
     {
         return m_triangle->getPoint(index);
     }
+    return sf::Vector2f(0.f, 0.f);
 }
+
+void CTriangle::Accept(IVisitor& visitor) 
+{
+    visitor.Visit(*this);
+}   

@@ -20,4 +20,4 @@ const int RADIUS_BEGINNING = 2;
 const std::string PERIMETER = ": P=";
 const std::string SQUARE = "; S=";
 
-const std::string EMPTY_OUTPUT = ": P=0; S=0";
+const std::string EMPTY_OUTPUT = " pusto";

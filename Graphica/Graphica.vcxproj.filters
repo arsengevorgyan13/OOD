@@ -13,108 +13,153 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
-    <Filter Include="Исходные файлы\include">
+    <Filter Include="Исходные файлы\interfaces">
+      <UniqueIdentifier>{afddaa79-b76d-44bc-a4d6-8998ef35a5dd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\shapes">
       <UniqueIdentifier>{41fa43ae-cd68-4729-8927-c0346494d457}</UniqueIdentifier>
     </Filter>
-    <Filter Include="Исходные файлы\implementation">
-      <UniqueIdentifier>{afddaa79-b76d-44bc-a4d6-8998ef35a5dd}</UniqueIdentifier>
+    <Filter Include="Исходные файлы\creators">
+      <UniqueIdentifier>{258b75e2-f788-4f68-bf47-1a174edf0f8f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\decorators">
+      <UniqueIdentifier>{37c6419a-e534-4f1d-a53a-1564c463bdd3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\decorators\math">
+      <UniqueIdentifier>{375f71cf-08ed-4f7d-a369-d2e9cd8ec359}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\decorators\draw">
+      <UniqueIdentifier>{3bb3216d-2e07-4718-95c4-e629f71dc7b4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\visitors">
+      <UniqueIdentifier>{c7772e24-a6bc-4621-8a13-a5a00afa38b9}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
-    <ClCompile Include="CRectangle.cpp">
-      <Filter>Исходные файлы\implementation</Filter>
-    </ClCompile>
-    <ClCompile Include="CCircle.cpp">
-      <Filter>Исходные файлы\implementation</Filter>
-    </ClCompile>
-    <ClCompile Include="CTriangle.cpp">
-      <Filter>Исходные файлы\implementation</Filter>
-    </ClCompile>
     <ClCompile Include="ShapeManager.cpp">
-      <Filter>Исходные файлы\implementation</Filter>
-    </ClCompile>
-    <ClCompile Include="FileHandler.cpp">
-      <Filter>Исходные файлы\implementation</Filter>
+      <Filter>Исходные файлы\interfaces</Filter>
     </ClCompile>
     <ClCompile Include="Application.cpp">
-      <Filter>Исходные файлы\implementation</Filter>
-    </ClCompile>
-    <ClCompile Include="CircleMathDecorator.cpp">
-      <Filter>Исходные файлы\implementation</Filter>
-    </ClCompile>
-    <ClCompile Include="TriangleMathDecorator.cpp">
-      <Filter>Исходные файлы\implementation</Filter>
-    </ClCompile>
-    <ClCompile Include="RectangleMathDecorator.cpp">
-      <Filter>Исходные файлы\implementation</Filter>
-    </ClCompile>
-    <ClCompile Include="RectangleCreator.cpp">
-      <Filter>Исходные файлы\implementation</Filter>
-    </ClCompile>
-    <ClCompile Include="TriangleCreator.cpp">
-      <Filter>Исходные файлы\implementation</Filter>
-    </ClCompile>
-    <ClCompile Include="CircleCreator.cpp">
-      <Filter>Исходные файлы\implementation</Filter>
+      <Filter>Исходные файлы\interfaces</Filter>
     </ClCompile>
     <ClCompile Include="ShapeFactoryManager.cpp">
-      <Filter>Исходные файлы\implementation</Filter>
+      <Filter>Исходные файлы\interfaces</Filter>
+    </ClCompile>
+    <ClCompile Include="RectangleDrawDecorator.cpp">
+      <Filter>Исходные файлы\decorators\draw</Filter>
+    </ClCompile>
+    <ClCompile Include="RectangleMathDecorator.cpp">
+      <Filter>Исходные файлы\decorators\math</Filter>
+    </ClCompile>
+    <ClCompile Include="TriangleMathDecorator.cpp">
+      <Filter>Исходные файлы\decorators\math</Filter>
+    </ClCompile>
+    <ClCompile Include="CircleMathDecorator.cpp">
+      <Filter>Исходные файлы\decorators\math</Filter>
+    </ClCompile>
+    <ClCompile Include="CircleDrawDecorator.cpp">
+      <Filter>Исходные файлы\decorators\draw</Filter>
+    </ClCompile>
+    <ClCompile Include="RectangleCreator.cpp">
+      <Filter>Исходные файлы\creators</Filter>
+    </ClCompile>
+    <ClCompile Include="CircleCreator.cpp">
+      <Filter>Исходные файлы\creators</Filter>
+    </ClCompile>
+    <ClCompile Include="TriangleCreator.cpp">
+      <Filter>Исходные файлы\creators</Filter>
+    </ClCompile>
+    <ClCompile Include="CCircle.cpp">
+      <Filter>Исходные файлы\shapes</Filter>
+    </ClCompile>
+    <ClCompile Include="CRectangle.cpp">
+      <Filter>Исходные файлы\shapes</Filter>
+    </ClCompile>
+    <ClCompile Include="CTriangle.cpp">
+      <Filter>Исходные файлы\shapes</Filter>
+    </ClCompile>
+    <ClCompile Include="TriangleDrawDecorator.cpp">
+      <Filter>Исходные файлы\decorators\draw</Filter>
+    </ClCompile>
+    <ClCompile Include="ShapeMathVisitor.h">
+      <Filter>Исходные файлы\visitors</Filter>
+    </ClCompile>
+    <ClCompile Include="ShapeMathVisitor.cpp">
+      <Filter>Исходные файлы\visitors</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="CCircle.h">
-      <Filter>Исходные файлы\include</Filter>
+      <Filter>Исходные файлы\shapes</Filter>
     </ClInclude>
     <ClInclude Include="CRectangle.h">
-      <Filter>Исходные файлы\include</Filter>
+      <Filter>Исходные файлы\shapes</Filter>
     </ClInclude>
     <ClInclude Include="CTriangle.h">
-      <Filter>Исходные файлы\include</Filter>
-    </ClInclude>
-    <ClInclude Include="FileHandler.h">
-      <Filter>Исходные файлы\include</Filter>
+      <Filter>Исходные файлы\shapes</Filter>
     </ClInclude>
     <ClInclude Include="ShapeManager.h">
-      <Filter>Исходные файлы\include</Filter>
+      <Filter>Исходные файлы\shapes</Filter>
     </ClInclude>
     <ClInclude Include="Application.h">
-      <Filter>Исходные файлы\include</Filter>
-    </ClInclude>
-    <ClInclude Include="IShape.h">
-      <Filter>Исходные файлы\include</Filter>
-    </ClInclude>
-    <ClInclude Include="RectangleMathDecorator.h">
-      <Filter>Исходные файлы\include</Filter>
-    </ClInclude>
-    <ClInclude Include="CircleMathDecorator.h">
-      <Filter>Исходные файлы\include</Filter>
-    </ClInclude>
-    <ClInclude Include="TriangleMathDecorator.h">
-      <Filter>Исходные файлы\include</Filter>
-    </ClInclude>
-    <ClInclude Include="ShapeMathDecorator.h">
-      <Filter>Исходные файлы\include</Filter>
-    </ClInclude>
-    <ClInclude Include="Constants.h">
-      <Filter>Исходные файлы\include</Filter>
-    </ClInclude>
-    <ClInclude Include="ShapeCreator.h">
-      <Filter>Исходные файлы\include</Filter>
-    </ClInclude>
-    <ClInclude Include="RectangleCreator.h">
-      <Filter>Исходные файлы\include</Filter>
-    </ClInclude>
-    <ClInclude Include="TriangleCreator.h">
-      <Filter>Исходные файлы\include</Filter>
-    </ClInclude>
-    <ClInclude Include="CircleCreator.h">
-      <Filter>Исходные файлы\include</Filter>
+      <Filter>Исходные файлы\shapes</Filter>
     </ClInclude>
     <ClInclude Include="ShapeFactoryManager.h">
-      <Filter>Исходные файлы\include</Filter>
+      <Filter>Исходные файлы\shapes</Filter>
+    </ClInclude>
+    <ClInclude Include="CircleDrawDecorator.h">
+      <Filter>Исходные файлы\decorators\draw</Filter>
+    </ClInclude>
+    <ClInclude Include="CircleMathDecorator.h">
+      <Filter>Исходные файлы\decorators\math</Filter>
+    </ClInclude>
+    <ClInclude Include="RectangleDrawDecorator.h">
+      <Filter>Исходные файлы\decorators\draw</Filter>
+    </ClInclude>
+    <ClInclude Include="RectangleMathDecorator.h">
+      <Filter>Исходные файлы\decorators\math</Filter>
+    </ClInclude>
+    <ClInclude Include="RectangleCreator.h">
+      <Filter>Исходные файлы\creators</Filter>
+    </ClInclude>
+    <ClInclude Include="TriangleMathDecorator.h">
+      <Filter>Исходные файлы\decorators\math</Filter>
+    </ClInclude>
+    <ClInclude Include="TriangleDrawDecorator.h">
+      <Filter>Исходные файлы\decorators\draw</Filter>
+    </ClInclude>
+    <ClInclude Include="TriangleCreator.h">
+      <Filter>Исходные файлы\creators</Filter>
+    </ClInclude>
+    <ClInclude Include="ShapeDecorator.h">
+      <Filter>Исходные файлы\interfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="IShape.h">
+      <Filter>Исходные файлы\interfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="ShapeMathDecorator.h">
+      <Filter>Исходные файлы\interfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="ShapeDrawDecorator.h">
+      <Filter>Исходные файлы\interfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="CircleCreator.h">
+      <Filter>Исходные файлы\creators</Filter>
+    </ClInclude>
+    <ClInclude Include="ShapeCreator.h">
+      <Filter>Исходные файлы\interfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="Constants.h">
+      <Filter>Исходные файлы\interfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="ShapeFileDecorator.h">
+      <Filter>Исходные файлы\interfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="IVisitor.h">
+      <Filter>Исходные файлы\visitors</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>

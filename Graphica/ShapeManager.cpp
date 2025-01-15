@@ -1,4 +1,5 @@
 #include <iostream>
+#include <iomanip>
 #include <fstream>
 #include "ShapeManager.h"
 #include "IShape.h"
@@ -10,52 +11,64 @@
 #include "CCircle.h"
 #include "CRectangle.h"
 #include "Constants.h"
+#include "ShapeDrawDecorator.h"
+#include "RectangleDrawDecorator.h"
+#include "TriangleDrawDecorator.h"
+#include "CircleDrawDecorator.h"
+#include "ShapeFactoryManager.h"
+#include "ShapeMathVisitor.h"
 
-void ShapeManager::AddShape(std::shared_ptr<IShape> shape) 
+void ShapeManager::ReadInputFile(const std::string& filename)
 {
-    if (auto rectangle = std::dynamic_pointer_cast<CRectangle>(shape))
-    {
-        shape = std::make_shared<RectangleMathDecorator>(rectangle);
-    }
-    else if (auto circle = std::dynamic_pointer_cast<CCircle>(shape)) 
-    {
-        shape = std::make_shared<CircleMathDecorator>(circle);
-    }
-    else if (auto triangle = std::dynamic_pointer_cast<CTriangle>(shape)) 
-    {
-        shape = std::make_shared<TriangleMathDecorator>(triangle);
-    }
+    std::ifstream inputFile(filename);
+    std::string line;
 
-    shapes.push_back(std::move(shape));
+    while (std::getline(inputFile, line))
+    {
+        auto delimiterPos = line.find(':');
+        std::string shapeType = line.substr(0, delimiterPos);
+        std::string parameters = line.substr(delimiterPos + 1);
+
+        auto shape = ShapeFactoryManager::GetInstance().CreateShape(shapeType, parameters);
+        if (!shape)
+        {
+            std::cerr << "Failed to create shape of type: " << shapeType << std::endl;
+            continue;
+        }
+        shapes.push_back(std::move(shape));
+    }
 }
 
-void ShapeManager::DrawShapes(sf::RenderWindow& window) 
+void ShapeManager::DrawShapes(sf::RenderWindow& window)
 {
-    for (const auto& shape : shapes) 
+    for (const auto& shape : shapes)
     {
-        shape->Draw(window);
+        if (auto rectangle = std::dynamic_pointer_cast<CRectangle>(shape)) {
+            RectangleDrawDecorator decorator(rectangle);
+            decorator.Draw(window);
+        }
+        else if (auto circle = std::dynamic_pointer_cast<CCircle>(shape)) {
+            CircleDrawDecorator decorator(circle);
+            decorator.Draw(window);
+        }
+        else if (auto triangle = std::dynamic_pointer_cast<CTriangle>(shape)) {
+            TriangleDrawDecorator decorator(triangle);
+            decorator.Draw(window);
+        }
     }
 }
 
-void ShapeManager::SaveResults(const std::string& outputFilename) 
+void ShapeManager::SaveResults(const std::string& outputFilename)
 {
     std::ofstream outputFile(outputFilename);
-    for (const auto& shape : shapes) 
-    {
-        outputFile << shape->GetShapeName();
+    ShapeMathVisitor mathVisitor;
 
-        auto decoratedShape = dynamic_cast<ShapeMathDecorator*>(shape.get());
-        if (decoratedShape)
-        {
-            outputFile << PERIMETER << decoratedShape->GetPerimeter()
-                << SQUARE << decoratedShape->GetArea();
-        }
-        else 
-        {
-            outputFile << EMPTY_OUTPUT; 
-        }
-        outputFile << std::endl;
+    for (const auto& shape : shapes)
+    {
+        shape->Accept(mathVisitor);
     }
+
+    outputFile << mathVisitor.GetResults();
 }
 
 

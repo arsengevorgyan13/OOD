@@ -1,13 +1,20 @@
-//#pragma once
-//#include <SFML/Graphics.hpp>
-//#include "IShape.h"
-//
-//class ShapeDecorator : public IShape
-//{
-//public:
-//    virtual ~ShapeDecorator() = default;
-//
-//    virtual void Draw(sf::RenderWindow& window) = 0;
-//    virtual float CalculatePerimeter() const = 0;
-//    virtual float CalculateArea() const = 0;
-//};
+#pragma once
+#include "IShape.h"
+#include <memory>
+
+class ShapeDecorator : public IShape
+{
+public:
+    ShapeDecorator(std::shared_ptr<IShape> shapePtr)
+        : m_shape(std::move(shapePtr)) {}
+
+    ShapeDecorator() = default;
+
+    std::string GetShapeName() const override
+    {
+        return m_shape->GetShapeName();
+    }
+
+protected:
+    std::shared_ptr<IShape> m_shape;
+};

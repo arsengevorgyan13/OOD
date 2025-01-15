@@ -9,7 +9,6 @@ public:
         : ShapeMathDecorator(circle), m_circle(circle) {}
 
     float GetArea() const override;
-
     float GetPerimeter() const override;
 
 private:

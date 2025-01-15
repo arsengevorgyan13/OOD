@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LAB1", "Graphica.vcxproj", "{3451642B-6B0D-4C76-A2B3-14627179551A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3451642B-6B0D-4C76-A2B3-14627179551A}.Debug|x64.ActiveCfg = Debug|x64
+		{3451642B-6B0D-4C76-A2B3-14627179551A}.Debug|x64.Build.0 = Debug|x64
+		{3451642B-6B0D-4C76-A2B3-14627179551A}.Debug|x86.ActiveCfg = Debug|Win32
+		{3451642B-6B0D-4C76-A2B3-14627179551A}.Debug|x86.Build.0 = Debug|Win32
+		{3451642B-6B0D-4C76-A2B3-14627179551A}.Release|x64.ActiveCfg = Release|x64
+		{3451642B-6B0D-4C76-A2B3-14627179551A}.Release|x64.Build.0 = Release|x64
+		{3451642B-6B0D-4C76-A2B3-14627179551A}.Release|x86.ActiveCfg = Release|Win32
+		{3451642B-6B0D-4C76-A2B3-14627179551A}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7E82EB2E-DAA0-491D-BD98-C5ED4A939385}
+	EndGlobalSection
+EndGlobal

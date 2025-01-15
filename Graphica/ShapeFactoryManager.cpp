@@ -4,8 +4,8 @@
 ShapeFactoryManager::ShapeFactoryManager()
 {
     RegisterCreator(RECTANGLE_NAME, &RectangleCreator::GetInstance());
-    RegisterCreator(CIRCLE_NAME, & CircleCreator::GetInstance());
-    RegisterCreator(CIRCLE_NAME, &TriangleCreator::GetInstance());
+    RegisterCreator(CIRCLE_NAME, &CircleCreator::GetInstance());
+    RegisterCreator(TRIANGLE_NAME, &TriangleCreator::GetInstance());
 }
 
 std::shared_ptr<IShape> ShapeFactoryManager::CreateShape(const std::string& shapeType, const std::string& parameters)

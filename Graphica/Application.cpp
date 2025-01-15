@@ -8,8 +8,7 @@ Application::Application()
 
 void Application::Run() 
 {
-    ShapeManager shapeManager;
-    m_fileHandler.ReadInputFile(INPUT_FILE_NAME, shapeManager);
+    m_shapeManager.ReadInputFile(INPUT_FILE_NAME);
         
     while (m_window.isOpen())
     {
@@ -23,9 +22,9 @@ void Application::Run()
         }
 
         m_window.clear(sf::Color(52, 92, 92));
-        shapeManager.DrawShapes(m_window);
+        m_shapeManager.DrawShapes(m_window);
         m_window.display();
     }
 
-    shapeManager.SaveResults(OUTPUT_FILE_NAME);
+    m_shapeManager.SaveResults(OUTPUT_FILE_NAME);
 }

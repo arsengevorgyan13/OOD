@@ -1,6 +1,5 @@
 #include <SFML/Graphics.hpp>
 #include "ShapeManager.h"
-#include "FileHandler.h"
 
 class Application
 {
@@ -9,6 +8,5 @@ public:
     void Run();
 private:
     ShapeManager m_shapeManager;
-    FileHandler m_fileHandler;
     sf::RenderWindow m_window;
 };
